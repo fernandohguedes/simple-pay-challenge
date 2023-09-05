@@ -1,7 +1,7 @@
 # Simple Pay Challenge
 
 ### Objetivo desse estudo
-<p>É praticar um pouco e programar um pouco e testar coisas novas que tenho encontrado estudando em projetos de aula, 
+<p>É programar, praticar e testar coisas novas que tenho encontrado estudando em projetos de aula, 
 pensando nisso então eu fui a procura de alguns desafios de empresas que me interesso, com a intenção de praticar e saber um pouco 
 do que o mercado espera de seus candidatos. Decidi então fazer este desafio.</p>
 
